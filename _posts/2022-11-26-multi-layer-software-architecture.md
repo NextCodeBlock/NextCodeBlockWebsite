@@ -61,7 +61,7 @@ Before we go to the implementation part, it is better to list the advantages and
 - **maintainability:** Due to the tight coupling between layers, a change in one layer can affect the performance and functionality of the entire system. Therefore, it is difficult to maintain this software architecture.
 
 ## Demo Project Link
-<a target="_blank" href="https://github.com/ziagham/MultiLayerArchitecture-Demo">**Here**</a>, you can find the source code of very simple project and a demonstration of a three-layer software architecture on Github.
+<a target="_blank" href="https://github.com/NextCodeBlock/MultiLayerArchitecture-Demo">**Here**</a>, you can find the source code of very simple project and a demonstration of a three-layer software architecture on Github.
 
 ## Conclusion
 Multilayer software architecture was introduced in this article. Also, its difference with Multi-tier architecture was also stated. In addition, it's mentioned that the most common and simplest mode of multi-layer software architecture is three-layers which include the presentation layer, business layer, and data access layer. Learning this architecture is very simple. Also, the dependency within the system is low and its testing is simple. But on the other hand, the scalability and maintainability of this software architecture is hard and complicated.

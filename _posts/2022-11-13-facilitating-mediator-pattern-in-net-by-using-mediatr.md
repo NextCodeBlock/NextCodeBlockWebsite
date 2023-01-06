@@ -100,7 +100,7 @@ For example, as can be seen in the image below, the Swagger tool used to facilit
 {% include image.html url="/assets/img/posts/2022/11/Swagger_OpenApi_Execution_Product_Api_With_MediatR.jpg" description="Swagger OpenApi Execution Product Api With MediatR" title="Figure-5: Swagger OpenApi Execution Product Api With MediatR" %}
 
 ## Project Link
-<a target="_blank" href="https://github.com/ziagham/MediatR-Demo">**Here**</a>, you can find the source code of this project on Github.
+<a target="_blank" href="https://github.com/NextCodeBlock/MediatR-Demo">**Here**</a>, you can find the source code of this project on Github.
 
 ## Conclusion
 The mediator pattern is one of the patterns that reduce the complexity and dependency between components. In this article, this pattern (mediator pattern) and its advantages and disadvantages were investigated. In the following, the MediatR library was introduced and it was shown how implementing the Mediator pattern using the MediatR library is a very easy and hassle-free task, which, in addition to providing a clean solution, helps a lot to create loose coupling between different components. The given example was implemented within an ASP.NET WebApi project.

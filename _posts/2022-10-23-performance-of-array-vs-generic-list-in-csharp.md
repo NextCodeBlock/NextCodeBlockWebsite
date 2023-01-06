@@ -51,7 +51,7 @@ As you can see, in the below result, the array has a better performance than the
 Also, the performance of the generic list with capacity is much better than the generic list without capacity. Below, without capacity mode, the generic list takes a default value as capacity and automatically doubles the capacity whenever it gets close to it. This operation of increasing the capacity behind the scenes, that is, performing some swap and extend operations of the array, will naturally have more time complexity than the state where capacity is defined.
 
 ## Project Link
-<a target="_blank" href="https://github.com/ziagham/ArrayvsList_Performance_Benchmark">**Here**</a>, you can find the related project on Github.
+<a target="_blank" href="https://github.com/NextCodeBlock/ArrayvsList_Performance_Benchmark">**Here**</a>, you can find the related project on Github.
 
 ## Conclusion
 In this article, the performance benchmark between array and generic list was investigated. According to the obtained benchmark results, it was determined that the array performs better than generic lists in case of adding operation. Arrays are generally used for high-performance and hardware purposes. But working and maintaining them is a bit difficult and requires more experience. But on the other hand, generic lists also have their benefits. Using them, compared to the array, is simple and supports more operators than the array. According to the obtained results, it was obvioud that generic lists can be a better operator if they have the capacity, compared to the case where there is no capacity.

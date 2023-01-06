@@ -69,7 +69,7 @@ in addition, type **sin 30.6** to see the executed result.
 {% include image.html url="/assets/img/posts/2022/10/Plugin_Architecture_Implementation_Output_Screenshot-03.jpg" description="Running demo application" title="Figure-3: The result of executing Sin command" %}
 
 ## Project Link
-<a target="_blank" href="https://github.com/ziagham/PluginArchitecture-Demo">**Here**</a>, you can find the source code of this project on Github.
+<a target="_blank" href="https://github.com/NextCodeBlock/PluginArchitecture-Demo">**Here**</a>, you can find the source code of this project on Github.
 
 ## Conclusion
 In this article, the Plugin architecture concepts was explained. In general, the plugin architecture is consist of two part: Core system and Plugin component. Plugin architecture is one of the architectures that gives programs the ability to modularize itself. This important feature, along with several other advantages (e.g., Extensibility, Simplicity, and Parallel Development), make this architecture one of the most popular architectures for large programs (e.g., Chrome, WordPress). But along with these advantages, it also has disadvantages. Disadvantage like Maintainability, and Testing. But its advantages outweigh its disadvantages. In the following, we had a very small implementation of these concepts about mathematical calculator that works with commands. The commands in that demo program were in the form of plugins.
