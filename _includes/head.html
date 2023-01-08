@@ -57,7 +57,7 @@
   {%- unless page.layout == "home" -%}
     {{ page.title | append: " | "}}
   {%- endunless -%}
-    {{ site.title }}
+    {{ site.title }} | {{ site.tagline }}
   </title>
 
   {% include favicons.html %}
@@ -120,6 +120,7 @@
     blockquote.cyan { padding:0.7em; border: 3px #0ff solid; background-color:#0ff1; }
     blockquote.yellow { padding:0.7em; border: 3px rgba(255, 191, 0, 0.5) solid; background-color:rgba(255, 255, 143, 0.15); }
     blockquote.pink { padding:0.7em; border: 3px #f9f solid; background-color:#f9f1; }
+    footer { padding-left: 0 !important; padding-right: 0 !important; }
   </style>
 
   <!-- JavaScript -->
