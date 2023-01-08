@@ -16,14 +16,14 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Europe/Paris
+timezone: Europe/Oslo
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Next CodeBlock                          # the main title
 
-tagline: Advance coding topics in .NET   # it will display as the sub-title
+tagline: Advanced topics and concepts in coding and software engineering with eloquent and simple expression   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A tech blog focusing on Computer science, DevOps, Clouds, Software development, and Software Architecture.
