@@ -77,7 +77,7 @@ In this section we will list the advantages and disadvantages of Clean Architect
 - **Complexity:** The complexity of the project is higher and it is not recommended for small projects.
 
 ## Demo Project Link
-<a target="_blank" href="https://github.com/NextCodeBlock/CleanArchitecture-Demo">**Here**</a>, you can find the source code of very simple project and a demonstration of a three-layer software architecture on Github.
+<a target="_blank" href="https://github.com/NextCodeBlock/CleanArchitecture-Demo">**Here**</a>, you can find the source code of very simple project and a demonstration of a clean architecture on Github.
 
 ## Conclusion
 The clean architecture was introduced in this article. Clean architecture is a model that each layer depends on and has access to the inner layer. On the other hand, internal layers do not have any references to higher layers. Compared to other software architectures (e.g., Multi-Layer Architecture), Clean Architecture is a completely testable and more maintainable solution that can adapt to changes faster. Naturally, this architecture is not a Silver Bullet, and in addition to its many tangible and intangible benefits, it will also have problems and difficulties. The goal here was just an initial introduction to this architectural style. A demo project has also been implemented and linked in this article, which can be used to learn more concretely about the topics discussed. There are many more details of the parts and rules and implementation of this architecture in the <a target="_blank" href="https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164">**Clean Architecture book**</a>; You can refer to this valuable book.
