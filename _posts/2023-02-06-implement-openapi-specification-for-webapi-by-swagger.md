@@ -50,11 +50,12 @@ Build and run your project. After running your WebApi application, you will see 
 
 {% include image.html url="/assets/img/posts/2023/02/DefaultSwagger.JPG" description="Swagger documentation of your RESTful Api" title="Figure-1: Swagger documentation of your RESTful Api" %}
 
+### Try it out
 Now, if you click on one of the displayed items (for example, GET ​/Product), a form similar to the image below will be displayed. 
-{% include image.html url="/assets/img/posts/2023/02/Tryitout_GetMethod_Swagger.JPG" description="Try to execute Get method of Product Api" title="Figure-3: Try to execute Get method of Product Api" %}
+{% include image.html url="/assets/img/posts/2023/02/Tryitout_GetMethod_Swagger.JPG" description="Try to execute Get method of Product Api" title="Figure-2: Try to execute Get method of Product Api" %}
 
-Click on the **Try it out** button and then press the **Execute** button. After execution, you will see the result like Figure-4.
-{% include image.html url="/assets/img/posts/2023/02/Execute_GetMethod_Swagger.JPG" description="Executed Get method of Product Api" title="Figure-4: Executed Get method of Product Api" %}
+Click on the **Try it out** button and then press the **Execute** button. After execution, you will see the result like Figure-3.
+{% include image.html url="/assets/img/posts/2023/02/Execute_GetMethod_Swagger.JPG" description="Executed Get method of Product Api" title="Figure-3: Executed Get method of Product Api" %}
 
 ### Personalize the Swagger UI
 You can also customize the information displayed in the swagger documentation. For example, you can add contact details so that customers or developers can contact you if there is a problem. To do this, change the AddSwaggerGen method as follows.
@@ -62,8 +63,8 @@ You can also customize the information displayed in the swagger documentation. F
 After that, change the UseSwaggerUI method as follows.
 <script src="https://gist.github.com/ziagham/6b3946d587b33497b10c6ba26eccf4f1.js"></script>
 
-Build and run your project. After running, you will see an environment similar to Figure-2. As you can see, the inserted details are shown.
-{% include image.html url="/assets/img/posts/2023/02/CustomizeSwagger.JPG" description="Customized Swagger documentation of your RESTful Api" title="Figure-2: Customized Swagger documentation of your RESTful Api" %}
+Build and run your project. After running, you will see an environment similar to Figure-4. As you can see, the inserted details are shown.
+{% include image.html url="/assets/img/posts/2023/02/CustomizeSwagger.JPG" description="Customized Swagger documentation of your RESTful Api" title="Figure-4: Customized Swagger documentation of your RESTful Api" %}
 
 ## Demo Project Link
 <a target="_blank" href="https://github.com/NextCodeBlock/OpenApi-Swagger-Demo">**Here**</a>, you can find the source code of very simple project and a demonstration of a OpenAPI specification by Swagger on Github.
