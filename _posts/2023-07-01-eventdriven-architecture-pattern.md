@@ -4,6 +4,7 @@ author: Amin Ziagham
 date: 2023-07-01
 categories: [Software Architecture]
 tags: [C#, .NET, Event Driven, Software Architecture]
+description: Event-driven architecture is a software design pattern that uses events to determine the flow of data in an application. Events can be user actions...
 ---
 
 The request-response model in modern IT systems can become fairly complex when new applications and services are introduced to the infrastructure. To begin, if you want to verify that all elements are linked, you must define a request and a response for each interaction. For example, if Service A requires data from Service B, it will submit a request to Service B. Once Service B has processed the request and obtained the data, it will return the requested data to Service A. It is obvious that as the number of services provided by your system increases, you must likewise support all conceivable connections, which expand exponentially in relation to the number of services supported. Look at the Figure 1.

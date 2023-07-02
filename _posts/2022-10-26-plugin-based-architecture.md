@@ -4,6 +4,7 @@ author: Amin Ziagham
 date: 2022-10-26
 categories: [Software Architecture]
 tags: [C#, .NET, Reflection, Plugin, MicroKernel, Software Architecture]
+description: The general concept and idea of the plugin are straightforward. That is, being able to add (plugin) features to an existing system or component without...
 ---
 
 This article aims to describe the plugin architecture with an example. First, the concepts and high-level architecture will be described. After that, the given explanations will be implemented with an example.

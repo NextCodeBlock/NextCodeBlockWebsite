@@ -4,6 +4,7 @@ author: Amin Ziagham
 date: 2023-02-06
 categories: [Interface Description Language]
 tags: [C#, .NET, ASP.NET, OpenAPI, Swagger, RESTful, REST, WebApi,]
+description: OpenAPI Specification (OAS) is a language-independent standard that use to define the structure and implementation of RESTful APIs...
 ---
 
 Today, APIs have greatly influenced the web. The stronger the API documentation is, the better and more useful the API will be. A good API can become a useless tool when people don't know how to use it. This is where it becomes clear why documentation can be essential for a professional and business API. On the other hand, it can be challenging to create and maintain a good document that is easy to understand, engaging with, and pleasing to the consumer. Therefore, there is a need for a standard that can create integrated documents, with the least effort, which, in addition to being cheaper and easier to maintain, can be understood by humans and computers. One of the prominent standards in Restful documentation is OpenAPI Specification. In this article, an explanation has been given about open API specifications. The swagger tool is also introduced in this regard, and finally, an example with .NET will be provided that shows the use of open API specifications by swagger.

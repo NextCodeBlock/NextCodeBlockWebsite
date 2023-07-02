@@ -4,6 +4,7 @@ author: Amin Ziagham
 date: 2022-10-23
 categories: [Fundamental Programming]
 tags: [C#, .NET, Benchmark, Performance, Fundamental Programming]
+description: An array is a sequence of items in which fixed values are stored and all these items must be of the same or homogenous types...
 ---
 
 Array and list are two structures that are used a lot. According to the type of application, you can choose one of them. As a rule, the list is most desired by .net programmers due to its dynamic nature and ease of use. This article will compare these two structures from different aspects. Also, their performance will be compared to find out which structure is more suitable in terms of performance.

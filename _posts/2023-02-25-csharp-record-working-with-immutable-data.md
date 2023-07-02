@@ -3,7 +3,8 @@ title: "C# Record: Working with immutable data"
 author: Amin Ziagham
 date: 2023-02-25
 categories: [Fundamental Programming]
-tags: [C#, .NET]
+tags: [C#, .NET, Record]
+description: Working with immutable data is more powerful, often leads to fewer bugs, and forces you to convert objects into new objects instead of modifying...
 ---
 
 Working with immutable data is more powerful, often leads to fewer bugs, and forces you to convert objects into new objects instead of modifying existing ones. F# developers are used to this, because F# treats everything as immutable by default. Now we have immutable types in C# as well. In C# 9.0, the record type was added to the language, which makes it easier for you to work with immutable data in C#. But before going into the description of this new type, we will first explain what Immutable objects are and what their advantages are.

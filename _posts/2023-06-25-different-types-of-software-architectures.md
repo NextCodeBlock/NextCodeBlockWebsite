@@ -4,6 +4,7 @@ author: Amin Ziagham
 date: 2023-06-25
 categories: [Software Architecture]
 tags: [Software Architecture, Architecture Patterns]
+description: A software architecture is a high-level, general, and reusable solution to a common problem in software engineering. Software architectures are similar to...
 ---
 
 There were only a few architectural patterns in software engineering a few decades ago. However, the field has evolved more than ever before, serving as critical blueprints for designing and managing software applications. In essence, the primary objective of software architecture patterns is to group various components into a software system based on a familiar interface or architecture. To accomplish this, a software architect must ensure appropriate relationships among the system's various components while designing the system. In the following, we reviewe the Software Architecture Patterns and what is it, and then we will introduce different architectures and examine the characteristics of each.

@@ -4,6 +4,7 @@ author: Amin Ziagham
 date: 2023-01-29
 categories: [Design Patterns]
 tags: [C#, .NET, WebApi, Mediator pattern, MediatR, Design patterns, Command, Query, CSQ, CQRS, Postman, Swagger, REST Client]
+description: CQS stands for Command Query Separation and is a code pattern that creates this capability to separate requests from commands. So...
 ---
 
 This article aims to describe the Command Query Responsibility Separation (CQRS) design principle, its advantages and disadvantages, and how to implementing this pattern in .NET with an example. First, the basic explanations and concepts will be mentioned, then the given explanations will be implemented with an example.

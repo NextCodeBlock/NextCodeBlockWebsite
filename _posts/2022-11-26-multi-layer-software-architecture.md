@@ -4,6 +4,7 @@ author: Amin Ziagham
 date: 2022-11-26
 categories: [Software Architecture]
 tags: [C#, .NET, Multi-layer, N-Tier, Software Architecture]
+description: Multi-layer architecture is one of the most widely used and proven model for software architectures. For several decades...
 ---
 
 One of the most popular architectural patterns for software development is **Multi-layered software architecture**. By using this architecture, you can speed up the process of doing developing and also you can control and balance the complexity of applications that are increasing every day.
