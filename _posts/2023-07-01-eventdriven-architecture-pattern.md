@@ -9,7 +9,7 @@ description: Event-driven architecture is a software design pattern that uses ev
 
 The request-response model in modern IT systems can become fairly complex when new applications and services are introduced to the infrastructure. To begin, if you want to verify that all elements are linked, you must define a request and a response for each interaction. For example, if Service A requires data from Service B, it will submit a request to Service B. Once Service B has processed the request and obtained the data, it will return the requested data to Service A. It is obvious that as the number of services provided by your system increases, you must likewise support all conceivable connections, which expand exponentially in relation to the number of services supported. Look at the Figure 1.
 
-{% include image.html url="/assets/img/posts/2023/07/eventdriven-architecture/PossibleConnections.jpg" description="Possible connection between services" title="Figure-1: Possible connection between services" %}
+{% include image.html url="/assets/img/posts/2023/07/PossibleConnections.jpg" description="Possible connection between services" title="Figure-1: Possible connection between services" %}
 
 When only a few services are involved, this process works well, but it quickly becomes unmanageable as the number of services increases. Furthermore, each service must be able to handle requests from other services in the system, making it difficult to add new services or update current ones without disrupting the entire system. **Event-Driven Architecture (EDA)** is an alternative technique that can aid in the simplification of modern software systems' complexity.
 
@@ -20,7 +20,7 @@ Events can be published in different ways. For example, they can be published to
 
 The figure 2, below, illustrates a simple view of a event-driven architecture.
 
-{% include image.html url="/assets/img/posts/2023/07/eventdriven-architecture/EventDriven-Architecture.jpg" description="EventDriven Architecture" title="Figure-2: EventDriven Architecture" %}
+{% include image.html url="/assets/img/posts/2023/07/EventDriven-Architecture.jpg" description="EventDriven Architecture" title="Figure-2: EventDriven Architecture" %}
 
 The various components of this architecture are:
 - **Event**: An event is a record of what has occurred and happened. They are immutable (they cannot be changed or deleted). This can be as simple as a user clicking button, an IoT sensor reading, or a system errors. A single event is only created once, but it can be consumed by numerous event consumers.
