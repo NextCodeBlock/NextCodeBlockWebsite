@@ -20,9 +20,9 @@ Architectural patterns provide a common language for developers to describe and 
 ## Different software architectures
 As you can see below, an attempt has been made to display the list of the most popular software architectures in the form of headlines. We will try to describe each of these architectures in detail, along with the implementation, in separate posts.
 
-### <a href="https://nextcodeblock.com/posts/multi-layer-software-architecture/">Layered Architecture (n-tier)</a>
-### <a href="https://nextcodeblock.com/posts/eventdriven-architecture-pattern/">Event-driven Architecture</a>
-### <a href="https://nextcodeblock.com/posts/plugin-based-architecture/">MicroKernel (Plugin-based) Architecture</a>
+### <a href="/posts/multi-layer-software-architecture/">Layered Architecture (n-tier)</a>
+### <a href="/posts/eventdriven-architecture-pattern/">Event-driven Architecture (EDA)</a>
+### <a href="/posts/plugin-based-architecture/">MicroKernel (Plugin-based) Architecture</a>
 ### Microservices Architecture
 ### Space-based Architecture
 ### Master-slave Architecture pattern
