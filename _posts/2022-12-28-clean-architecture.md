@@ -5,6 +5,7 @@ date: 2022-12-28
 categories: [Software Architecture]
 tags: [C#, .NET, Clean Architecture, Software Architecture]
 description: A clean architecture is a software architecture that each layer depends on and has access to the inner layer. Internal layers...
+image: '/assets/img/posts/2022/12/CleanArchitecture-Open-Graph.jpg'
 ---
 
 In this article, an attempt has been made to present the basic concepts and principles of clean architecture, along with a sample project. There are many proposed architectures for implementing software systems. Each of them has its advantages and disadvantages. Basically, a good architecture should be able to respond to the needs and changes of a software system in the long term. So that by changing the technology, changing the database, adapting to the new UI, etc., should not cause the loss of the structure, functionality, and complexity of the software code. Clean architecture is one of the few, and perhaps the best, architecture in this field that gives us the ability to reduce our perspective on dependencies and other long-term concerns.
