@@ -5,7 +5,7 @@ date: 2023-07-25
 categories: [Memory]
 tags: [C#, .NET, Memory, High Performance]
 description: Microservices design patterns are software design patterns that generate reusable autonomous services. The aim is to allow developers ...
-image: '/assets/img/posts/2023/07/Contiguous-Memory-Span.jpg'
+image: '/assets/img/posts/2023/07/Contiguous-Memory-Span-Open-Graph.jpg'
 ---
 
 .NET developers are often faced with the challenge of working with large arrays and data structures in a memory-efficient way. Especially in writing performance-critical server applications and scalable cloud-based services that are sensitive to memory consumption. To address these scenarios, .NET introduces flagship type into the ecosystem, namely <b>Span&lt;T&gt;</b>, which is used to provide scalable APIs that don't allocate buffers and avoid unnecessary data copies. This article tries to introduce this .NET feature.
