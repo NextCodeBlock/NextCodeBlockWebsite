@@ -5,7 +5,7 @@ date: 2023-07-08
 categories: [Software Architecture]
 tags: [C#, .NET, Monolithic, Microservices, SOA, Service Oriented Architecture, Software Architecture]
 description: Microservice architecture are a collection of small, discrete services that work together to form a larger, more complex application...
-image: '/assets/img/posts/2023/07/Microservices-Architecture-Pattern-Open-Graph.jpg'
+image: '/assets/img/posts/2023/07/Microservices-OG.jpg'
 ---
 
 With the increasing demand for large enterprise applications, a concept known as microservices has expanded throughout the software development industry, as developers are forced to adopt microservices architecture to construct large business systems. However, the concept of microservices appears to be a bit hard and complicated, but this is never the case, and in this post we will look at what, why, and the advantages and disadvantages of using microservices. But, before we go into the intricacies and grasp the nature of microservices architecture, it is important to understand why and how the process leading to microservices design evolved.
