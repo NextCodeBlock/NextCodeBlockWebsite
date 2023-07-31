@@ -40,7 +40,7 @@ keywords: [
 ]
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://nextcodeblock.com'
 
 github:
   username: ziagham             # change to your github username
@@ -86,7 +86,7 @@ theme_mode: light # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 'https://nextcodeblock.com'
 
 # the avatar on sidebar, support local or CORS resources
 avatar: '/assets/img/author/profile.jpg'
