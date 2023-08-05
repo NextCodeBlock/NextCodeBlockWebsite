@@ -94,6 +94,12 @@
     {% endif %}
   {% endif %}
 
+  {% if jekyll.environment == 'production'
+    and site.goolge_adsense.client_id != empty and site.goolge_adsense.client_id %}
+  <!-- Google Ads -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.goolge_adsense.client_id }}" crossorigin="anonymous"></script>
+  {% endif %}
+
   <!-- Bootstrap -->
   <link rel="stylesheet" href="{{ site.data.assets[origin].bootstrap.css | relative_url}}">
 
