@@ -2,6 +2,7 @@
 title: Plugin-based (MicroKernel) Architecture
 author: Amin Ziagham
 date: 2022-10-26
+last_modified_at: 2022-10-26
 categories: [Software Architecture]
 tags: [C#, .NET, Reflection, Plugin, MicroKernel, Software Architecture]
 description: The general concept and idea of the plugin are straightforward. That is, being able to add (plugin) features to an existing system or component without...

@@ -2,6 +2,7 @@
 title: The Command Query Separation (CQS) Design Principle
 author: Amin Ziagham
 date: 2023-01-29
+last_modified_at: 2023-01-29
 categories: [Design Patterns]
 tags: [C#, .NET, Microservices architecture, WebApi, Mediator pattern, MediatR, Design patterns, Command, Query, CSQ, CQRS, Postman, Swagger, REST Client]
 description: CQS stands for Command Query Separation and is a code pattern that creates this capability to separate requests from commands. So...

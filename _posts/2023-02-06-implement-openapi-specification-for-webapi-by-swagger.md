@@ -2,6 +2,7 @@
 title: Implement OpenAPI specification for WebApi by Swagger
 author: Amin Ziagham
 date: 2023-02-06
+last_modified_at: 2023-02-06
 categories: [Interface Description Language]
 tags: [C#, .NET, ASP.NET, OpenAPI, Swagger, RESTful, REST, WebApi,]
 description: OpenAPI Specification (OAS) is a language-independent standard that use to define the structure and implementation of RESTful APIs...

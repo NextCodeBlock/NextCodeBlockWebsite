@@ -2,6 +2,7 @@
 title: Design Patterns for Microservices Architecture
 author: Amin Ziagham
 date: 2023-07-16
+last_modified_at: 2023-07-16
 categories: [Design Patterns]
 tags: [C#, .NET, Microservices, Decomposition Patterns, Integration Patterns, Database Patterns, Observability Patterns, Cross-cutting Patterns]
 description: Microservices design patterns are software design patterns that generate reusable autonomous services. The aim is to allow developers ...

@@ -2,6 +2,7 @@
 title: Clean Architecture
 author: Amin Ziagham
 date: 2022-12-28
+last_modified_at: 2022-12-28
 categories: [Software Architecture]
 tags: [C#, .NET, Clean Architecture, Software Architecture]
 description: A clean architecture is a software architecture that each layer depends on and has access to the inner layer. Internal layers...

@@ -2,6 +2,7 @@
 title: Introduction to the Microservices Architecture Pattern
 author: Amin Ziagham
 date: 2023-07-08
+last_modified_at: 2023-07-08
 categories: [Software Architecture]
 tags: [C#, .NET, Monolithic, Microservices, SOA, Service Oriented Architecture, Software Architecture]
 description: Microservice architecture are a collection of small, discrete services that work together to form a larger, more complex application...

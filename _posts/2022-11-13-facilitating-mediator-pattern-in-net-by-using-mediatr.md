@@ -2,6 +2,7 @@
 title: Facilitating Mediator Pattern in .NET by using MediatR
 author: Amin Ziagham
 date: 2022-11-13
+last_modified_at: 2022-11-13
 categories: [Design Patterns]
 tags: [C#, .NET, WebApi, Mediator, MediatR, Design patterns, Postman, Swagger, REST Client]
 description: The Mediator pattern is one of the behavioral patterns. This design pattern causes integration and reduction of disorder in the dependency between objects...

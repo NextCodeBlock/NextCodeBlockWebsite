@@ -2,6 +2,7 @@
 title: "Span&lt;T&gt;: Working efficiently with contiguous memory in .NET"
 author: Amin Ziagham
 date: 2023-07-25
+last_modified_at: 2023-07-25
 categories: [Memory]
 tags: [C#, .NET, Memory, High Performance]
 description: Microservices design patterns are software design patterns that generate reusable autonomous services. The aim is to allow developers ...

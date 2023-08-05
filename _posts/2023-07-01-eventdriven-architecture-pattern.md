@@ -2,6 +2,7 @@
 title: Event Driven Architecture Pattern
 author: Amin Ziagham
 date: 2023-07-01
+last_modified_at: 2023-07-01
 categories: [Software Architecture]
 tags: [C#, .NET, Event Driven, Software Architecture]
 description: Event-driven architecture is a software design pattern that uses events to determine the flow of data in an application. Events can be user actions...

@@ -2,6 +2,7 @@
 title: "C# Record: Working with immutable data"
 author: Amin Ziagham
 date: 2023-02-25
+last_modified_at: 2023-02-25
 categories: [Fundamental Programming]
 tags: [C#, .NET, Record]
 description: Working with immutable data is more powerful, often leads to fewer bugs, and forces you to convert objects into new objects instead of modifying...

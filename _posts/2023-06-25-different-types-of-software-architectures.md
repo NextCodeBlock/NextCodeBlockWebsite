@@ -2,6 +2,7 @@
 title: "Different Types of Software Architectures"
 author: Amin Ziagham
 date: 2023-06-25
+last_modified_at: 2023-06-25
 categories: [Software Architecture]
 tags: [Software Architecture, Architecture Patterns]
 description: A software architecture is a high-level, general, and reusable solution to a common problem in software engineering. Software architectures are similar to...

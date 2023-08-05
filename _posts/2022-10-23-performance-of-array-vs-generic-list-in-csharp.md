@@ -2,6 +2,7 @@
 title: Performance of Array vs Generic List in C#
 author: Amin Ziagham
 date: 2022-10-23
+last_modified_at: 2022-10-23
 categories: [Fundamental Programming]
 tags: [C#, .NET, Benchmark, Performance, Fundamental Programming]
 description: An array is a sequence of items in which fixed values are stored and all these items must be of the same or homogenous types...

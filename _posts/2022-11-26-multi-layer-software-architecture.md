@@ -2,6 +2,7 @@
 title: Multi-Layer Software Architecture
 author: Amin Ziagham
 date: 2022-11-26
+last_modified_at: 2022-11-26
 categories: [Software Architecture]
 tags: [C#, .NET, Multi-layer, N-Tier, Software Architecture]
 description: Multi-layer architecture is one of the most widely used and proven model for software architectures. For several decades...
