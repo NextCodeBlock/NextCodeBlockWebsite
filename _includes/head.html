@@ -54,11 +54,11 @@
   {{ seo_tags }}
 
   <title>
-    {% if page.layout == 'home' %}
-      {{ site.title }} | {{ site.tagline }}
-    {% else %}
-      {{ page.title | append: " | "}} {{ site.title }}
-    {% endif %}
+  {% if page.layout == 'home' %}
+    {{ site.title }} | {{ site.tagline }}
+  {% else %}
+    {{ page.title | append: " | "}} {{ site.title }}
+  {% endif %}
   </title>
 
   {% include favicons.html %}
