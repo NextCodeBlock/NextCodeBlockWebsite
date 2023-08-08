@@ -21,7 +21,7 @@ timezone: Europe/Oslo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Next CodeBlock                          # the main title
+title: NextCodeBlock                          # the main title
 
 tagline: Advanced topics and concepts in coding and software engineering with eloquent and simple expression   # it will display as the sub-title
 
