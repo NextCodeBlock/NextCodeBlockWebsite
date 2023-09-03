@@ -25,6 +25,8 @@ At a high level, this layer just defines how the system works and the core busin
 ### Plugin component
 The plugins are independent components that contain specialized processing, custom code, and additional features that are intended to be addedd to the core system to enhance or extend it to produce additional functionality. One of the interesting features of plugins is that they can be added or removed from the core system at any time. The important thing is that plugins should be separate from each other as much as possible and have no connection with each other as minimal as possible.
 
+{% include advertisements.html %}
+
 ## Advantages and disadvantage of Plugin Architecture
 ### Advantages
 - **Independence from one another:** As far as the plugins are independent, it is possible to remove, add, and change plugins quickly. Depending on how the pattern is utilized and implemented, each plugin can be implemented, scaled, and tested separately.

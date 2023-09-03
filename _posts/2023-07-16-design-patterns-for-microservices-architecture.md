@@ -30,6 +30,8 @@ As previously mentioned, there are numerous categories of microservice architect
 #### Bulkhead Pattern
 #### Sidecar Pattern
 
+{% include advertisements.html %}
+
 ## Integration Patterns
 While building and developing a large, complex application using microservice architecture, microservices may use numerous protocols. REST is used by some microservices, while AMQP is used by others. The challenge now is figuring out how to allow clients to access each microservice without worrying about protocols and other complexity. These difficulties are addressed via integration design patterns. For instance, how to get the results of multiple services in a single call, and so on. Integration design patterns include seven primary patterns which listed below.
 #### API Gateway

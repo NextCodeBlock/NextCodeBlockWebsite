@@ -19,6 +19,8 @@ In a sample words, a software architectural is a high-level, general, and reusab
 
 Architectural patterns provide a common language for developers to describe and communicate architectural designs. Using architectural elements, developers can more easily share their knowledge and expertise, as well as collaborate with others to create better communication channels. In the following, we will introduce several important and widely used architectures in software engineering.
 
+{% include advertisements.html %}
+
 ## Different software architectures
 As you can see below, an attempt has been made to display the list of the most popular software architectures in the form of headlines. We will try to describe each of these architectures in detail, along with the implementation, in separate posts.
 

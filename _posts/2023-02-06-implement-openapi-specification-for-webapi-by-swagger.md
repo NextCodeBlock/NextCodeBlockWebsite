@@ -35,6 +35,8 @@ The Swagger toolset includes:
 - **Swagger Inspector (Free):** API testing tool that allows you to validate your APIs and create OpenAPI definitions from an existing API.
 - **SwaggerHub (Free and Commercial):** API design and documentation built for teams working with OpenAPI.
 
+{% include advertisements.html %}
+
 ## Sample Implementation
 In this part, a very demonstartion program will be writen to show you how use OpenAPI in real application. Our example is a web API project that doing CRUD on the  product entity. This project implemented via .NET 6.0 and C# programming language. You can use VSCode, Visual Studio, or any other IDE or text editor. 
 

@@ -22,6 +22,8 @@ The first and most important principle in this architecture is The Dependency Ru
 
 Next, we will explain this architecture layer by layer.
 
+{% include advertisements.html %}
+
 ## The Architecture's layers 
 ### Domain layer
 This layer is considered as the heart of your application and responsible for your entities. Robert C. Martin defines Entity as:

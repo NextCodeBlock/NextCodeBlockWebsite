@@ -39,6 +39,8 @@ This model of APIs combines several APIs together and allows developers to recei
 
 Composite APIs reduce server load by reducing the number of requests and produce faster and simpler systems. For example, in a shopping cart API, an API to create a user profile, an API to create an order, an API to add products and an API to change the order status are needed. Now, instead of developing several separate APIs for each of these services, it is enough to create a Composite API.
 
+{% include advertisements.html %}
+
 ## Types of architecture APIs
 Another way to categorize APIs is by architectural structure. The architecture of an API includes the rules and guidelines that dictate what information an API can share and how. The three types of **SOAP**, **REST**, **GraphQL**, **gRPC**, **WebSocket**, **WebHook**, **MQTT**, and **AMQP** are the most popular API architectures, which we describe below.
 

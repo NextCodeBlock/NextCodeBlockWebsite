@@ -38,6 +38,8 @@ Similar to all design patterns, this pattern also has its advantages and disadva
 <b>NOTE:</b> In this article, we do not intend to implement the mediator pattern. Our intention is to use a tool to facilitate the use of this pattern in .NET. Therefore, you can refer to the <a target="_blank" href="https://refactoring.guru/design-patterns/mediator"><b>Here</b></a> for additional information. There, in addition to a complete explanation of the mediator pattern, it has also provided its implementation, in different programming languages.
 </blockquote>
 
+{% include advertisements.html %}
+
 ## MediatR Library
 The MediatR library is an open source project that is implementation of the Mediator pattern in .NET that supports Request and Command. In MediatR, each request is placed in a queue in the memory and then connected to the Handler corresponding to that request. MediatR has no dependencies on other libraries and uses generics in C# to create Response and also to determine Handlers. Another very good feature of MediatR is the support of the Pub/Sub template, by which you can create a notification and call this notification in different places of the project.
 

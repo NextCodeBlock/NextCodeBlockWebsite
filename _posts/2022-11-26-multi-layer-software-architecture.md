@@ -27,6 +27,8 @@ As mentioned, 3-Tier is the basic and the most common form of n-tier architectur
 
 {% include image.html url="/assets/img/posts/2022/11/Four-Tier-Architecture.jpg" description="A simple diagram that shows the four-tier architecture" title="Figure-2: A simple diagram that shows the four-tier architecture" %}
 
+{% include advertisements.html %}
+
 ## What is Multi-Layer software architecture
 Multi-layer architecture is one of the most widely used and proven model for software architectures. For several decades, this architecture was the main choice of architectures and software engineers for the production and development of software systems. This architecture is still effective for designing small and medium-sized software systems, but with the increasing complexity and scalability of software systems, other architectures were introduced and used.
 
