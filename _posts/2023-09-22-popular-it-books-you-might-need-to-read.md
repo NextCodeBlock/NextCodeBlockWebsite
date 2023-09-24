@@ -9,7 +9,7 @@ description: This article try to covered some of the best and important books, i
 image: '/assets/img/posts/2023/09/Popular-IT-Books-OG.jpg'
 ---
 
-As software developers, engineer, architects, DevOps, Tester or any other fields in IT (Information Technology), we constantly need to learn new concepts, programming languages and technologies to stay up to date. there are numerous ways and methods to learn different and new technologies, such as YouTube, blogs, books, etc. One of my preferred methods for learning is by reading books. But, the problem is, there are so many books that it can be difficult to find the ones that are worth your time. That is why this article try to covered some of the best and important books, in the field of IT, I have found over the years that are worth reading. I tried to divide them into different categories like <a href="#patterns-of-enterprise-application-architecture">Software Architecture books</a>, <a href="#coding-practices-books">Coding practices books</a>, Testing books, DevOps books, Cloud computing books, and Machine Learning books.
+As software developers, engineer, architects, DevOps, Tester or any other fields in IT (Information Technology), we constantly need to learn new concepts, programming languages and technologies to stay up to date. there are numerous ways and methods to learn different and new technologies, such as YouTube, blogs, books, etc. One of my preferred methods for learning is by reading books. But, the problem is, there are so many books that it can be difficult to find the ones that are worth your time. That is why this article try to covered some of the best and important books, in the field of IT, I have found over the years that are worth reading. I tried to divide them into different categories like <a href="#patterns-of-enterprise-application-architecture">Software Architecture books</a>, <a href="#coding-practices-books">Coding practices books</a>, <a href="#testing-books">Testing books</a>, and <a href="#devops-books">DevOps books</a>.
 
 ## Software Architecture books
 ### <a target="_blank" href="https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420">Patterns of Enterprise Application Architecture</a>
@@ -611,6 +611,414 @@ In The Clean Coder: A Code of Conduct for Professional Programmers, legendary so
     </div>
     <div class="col-sm border-left text-center">
       Length: <br/><b>657 pages</b>
+    </div>
+  </div>
+</div>
+
+___
+## Testing books
+### <a target="_blank" href="https://www.amazon.com/Art-Unit-Testing-examples/dp/1617290890">The Art of Unit Testing</a>
+<div class="container border p-3">
+  <div class="row border-bottom">
+    <div class="col">
+      <img src="/assets/img/posts/2023/09/The-Art-of-Unit-Testing.jpg" class="float-left mr-3" width="176" alt="The Art of Unit Testing: with examples in C# Book">
+      The Art of Unit Testing, Second Edition guides you step by step from writing your first simple tests to developing robust test sets that are maintainable, readable, and trustworthy. You'll master the foundational ideas and quickly move to high-value subjects like mocks, stubs, and isolation, including frameworks such as Moq, FakeItEasy, and Typemock Isolator. You'll explore test patterns and organization, working with legacy code, and even "untestable" code. Along the way, you'll learn about integration testing and techniques and tools for testing databases and other technologies.
+    </div>
+  </div>
+  <div class="row mt-3">
+    <div class="col-sm text-center">
+      Author(s): <br/><b>Roy Osherove</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Publication year: <br/><b>2013</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Edition:<br/> <b>2nd</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Language:<br/> <b>English</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Length: <br/><b>296 pages</b>
+    </div>
+  </div>
+</div>
+
+### <a target="_blank" href="https://www.amazon.com/Art-Software-Testing-Glenford-Myers/dp/1118031962">The Art of Software Testing</a>
+<div class="container border p-3">
+  <div class="row border-bottom">
+    <div class="col">
+      <img src="/assets/img/posts/2023/09/The-Art-of-Software-Testing.jpg" class="float-left mr-3" width="176" alt="The Art of Software Testing Book">
+      The hardware and software of computing have changed markedly in the three decades since the first edition of The Art of Software Testing, but this book's powerful underlying analysis has stood the test of time. Whereas most books on software testing target particular development techniques, languages, or testing methods, The Art of Software Testing, Third Edition provides a brief but powerful and comprehensive presentation of time-proven software testing approaches. If your software development project is mission critical, this book is an investment that will pay for itself with the first bug you find.
+    </div>
+  </div>
+  <div class="row mt-3">
+    <div class="col-sm text-center">
+      Author(s): <br/><b>Glenford J. Myers<br/>Corey Sandler<br/>Tom Badgett</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Publication year: <br/><b>2011</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Edition:<br/> <b>3rd</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Language:<br/> <b>English</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Length: <br/><b>256 pages</b>
+    </div>
+  </div>
+</div>
+
+### <a target="_blank" href="https://www.amazon.com/Software-Testing-Ron-Patton/dp/0672327988">Software Testing</a>
+<div class="container border p-3">
+  <div class="row border-bottom">
+    <div class="col">
+      <img src="/assets/img/posts/2023/09/Software-Testing.jpg" class="float-left mr-3" width="176" alt="Software Testing Book">
+      Software Testing, Second Edition provides practical insight into the world of software testing and quality assurance. Learn how to find problems in any computer program, how to plan an effective test approach and how to tell when software is ready for release. Updated from the previous edition in 2000 to include a chapter that specifically deals with testing software for security bugs, the processes and techniques used throughout the book are timeless. This book is an excellent investment if you want to better understand what your Software Test team does or you want to write better software.
+
+Software testing is one of the invisible jobs in the software industry. Everyone has heard of computer programmers but few people realize there are nearly as many people behind the scenes with job titles such as Software Tester, Software Quality Assurance Engineer, Software Test Engineer, and Software Test Technician. Microsoft alone hires hundreds of people for these positions each year. There are also many companies whose sole purpose is providing software test consulting and software testing services. The first edition of Software Testing was published in November 2000. Although the processes and techniques used in testing computer software are timeless, this title will be brought up-to-date by adding a chapter that specifically deals with testing software for security bugs and revisiting the rest of the book to update examples and references.
+    </div>
+  </div>
+  <div class="row mt-3">
+    <div class="col-sm text-center">
+      Author(s): <br/><b>Ron Patton</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Publication year: <br/><b>2005</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Edition:<br/> <b>2nd</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Language:<br/> <b>English</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Length: <br/><b>408 pages</b>
+    </div>
+  </div>
+</div>
+
+### <a target="_blank" href="https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530">Test Driven Development</a>
+<div class="container border p-3">
+  <div class="row border-bottom">
+    <div class="col">
+      <img src="/assets/img/posts/2023/09/Test-Driven-Development.jpg" class="float-left mr-3" width="176" alt="Test Driven Development: By Example Book">
+      Quite simply, test-driven development is meant to eliminate fear in application development. While some fear is healthy (often viewed as a conscience that tells programmers to "be careful!"), the author believes that byproducts of fear include tentative, grumpy, and uncommunicative programmers who are unable to absorb constructive criticism. When programming teams buy into TDD, they immediately see positive results. They eliminate the fear involved in their jobs, and are better equipped to tackle the difficult challenges that face them. TDD eliminates tentative traits, it teaches programmers to communicate, and it encourages team members to seek out criticism However, even the author admits that grumpiness must be worked out individually! In short, the premise behind TDD is that code should be continually tested and refactored. Kent Beck teaches programmers by example, so they can painlessly and dramatically increase the quality of their work.
+    </div>
+  </div>
+  <div class="row mt-3">
+    <div class="col-sm text-center">
+      Author(s): <br/><b>Kent Beck </b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Publication year: <br/><b>2002</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Edition:<br/> <b>1st</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Language:<br/> <b>English</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Length: <br/><b>240 pages</b>
+    </div>
+  </div>
+</div>
+
+### <a target="_blank" href="https://www.amazon.com/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124">Lessons Learned in Software Testing</a>
+<div class="container border p-3">
+  <div class="row border-bottom">
+    <div class="col">
+      <img src="/assets/img/posts/2023/09/Lessons-Learned-in-Software-Testing.jpg" class="float-left mr-3" width="176" alt="Lessons Learned in Software Testing: A Context-Driven Approach Book">
+      Decades of software testing experience condensed into the most important lessons learned. The world's leading software testing experts lend you their wisdom and years of experience to help you avoid the most common mistakes in testing software. Each lesson is an assertion related to software testing, followed by an explanation or example that shows you the how, when, and why of the testing lesson. More than just tips, tricks, and pitfalls to avoid, Lessons Learned in Software Testing speeds you through the critical testing phase of the software development project without the extensive trial and error it normally takes to do so.
+    </div>
+  </div>
+  <div class="row mt-3">
+    <div class="col-sm text-center">
+      Author(s): <br/><b>Cem Kaner<br/>James Bach<br/>Bret Pettichord </b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Publication year: <br/><b>2001</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Edition:<br/> <b>1st</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Language:<br/> <b>English</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Length: <br/><b>320 pages</b>
+    </div>
+  </div>
+</div>
+
+### <a target="_blank" href="https://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468">Agile Testing: A Practical Guide for Testers and Agile Teams</a>
+<div class="container border p-3">
+  <div class="row border-bottom">
+    <div class="col">
+      <img src="/assets/img/posts/2023/09/Agile-Testing.jpg" class="float-left mr-3" width="176" alt="Agile Testing: A Practical Guide for Testers and Agile Teams Book">
+      Two of the industry’s most experienced agile testing practitioners and consultants, Lisa Crispin and Janet Gregory, have teamed up to bring you the definitive answers to these questions and many others. In Agile Testing, Crispin and Gregory define agile testing and illustrate the tester’s role with examples from real agile teams. They teach you how to use the agile testing quadrants to identify what testing is needed, who should do it, and what tools might help. The book chronicles an agile software development iteration from the viewpoint of a tester and explains the seven key success factors
+of agile testing.
+    </div>
+  </div>
+  <div class="row mt-3">
+    <div class="col-sm text-center">
+      Author(s): <br/><b>Lisa Crispin<br/>Janet Gregory</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Publication year: <br/><b>2008</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Edition:<br/> <b>1st</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Language:<br/> <b>English</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Length: <br/><b>576 pages</b>
+    </div>
+  </div>
+</div>
+
+___
+## DevOps books
+### <a target="_blank" href="https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592">The Phoenix Project</a>
+<div class="container border p-3">
+  <div class="row border-bottom">
+    <div class="col">
+      <img src="/assets/img/posts/2023/09/The-Phoenix-Project.jpg" class="float-left mr-3" width="176" alt="The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win Book">
+      Bill is an IT manager at Parts Unlimited. It's Tuesday morning and on his drive into the office, Bill gets a call from the CEO.
+
+The company's new IT initiative, code named Phoenix Project, is critical to the future of Parts Unlimited, but the project is massively over budget and very late. The CEO wants Bill to report directly to him and fix the mess in ninety days or else Bill's entire department will be outsourced.
+
+With the help of a prospective board member and his mysterious philosophy of The Three Ways, Bill starts to see that IT work has more in common with manufacturing plant work than he ever imagined. With the clock ticking, Bill must organize work flow streamline interdepartmental communications, and effectively serve the other business functions at Parts Unlimited.
+
+In a fast-paced and entertaining style, three luminaries of the DevOps movement deliver a story that anyone who works in IT will recognize. Readers will not only learn how to improve their own IT organizations, they'll never view IT the same way again.
+    </div>
+  </div>
+  <div class="row mt-3">
+    <div class="col-sm text-center">
+      Author(s): <br/><b>Gene Kim<br/>Kevin Behr<br/>George Spafford</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Publication year: <br/><b>2013</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Edition:<br/> <b>1st</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Language:<br/> <b>English</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Length: <br/><b>345 pages</b>
+    </div>
+  </div>
+</div>
+
+### <a target="_blank" href="https://www.amazon.com/Unicorn-Project-Developers-Disruption-Thriving/dp/1942788762">The Unicorn Project</a>
+<div class="container border p-3">
+  <div class="row border-bottom">
+    <div class="col">
+      <img src="/assets/img/posts/2023/09/The-Unicorn-Project.jpg" class="float-left mr-3" width="176" alt="The Unicorn Project Book">
+      This highly anticipated follow-up to the bestselling title The Phoenix Project takes another look at Parts Unlimited, this time from the perspective of software development.
+
+In The Unicorn Project, we follow Maxine, a senior lead developer and architect, as she is exiled to the Phoenix Project, to the horror of her friends and colleagues, as punishment for contributing to a payroll outage. She tries to survive in what feels like a heartless and uncaring bureaucracy and to work within a system where no one can get anything done without endless committees, paperwork, and approvals.
+
+One day, she is approached by a ragtag bunch of misfits who say they want to overthrow the existing order, to liberate developers, to bring joy back to technology work, and to enable the business to win in a time of digital disruption. To her surprise, she finds herself drawn ever further into this movement, eventually becoming one of the leaders of the Rebellion, which puts her in the crosshairs of some familiar and very dangerous enemies.
+
+The Age of Software is here, and another mass extinction event looms—this is a story about rebel developers and business leaders working together, racing against time to innovate, survive, and thrive in a time of unprecedented uncertainty...and opportunity.
+    </div>
+  </div>
+  <div class="row mt-3">
+    <div class="col-sm text-center">
+      Author(s): <br/><b>Gene Kim</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Publication year: <br/><b>2019</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Edition:<br/> <b>1st</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Language:<br/> <b>English</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Length: <br/><b>352 pages</b>
+    </div>
+  </div>
+</div>
+
+### <a target="_blank" href="https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1950508404">The DevOps Handbook</a>
+<div class="container border p-3">
+  <div class="row border-bottom">
+    <div class="col">
+      <img src="/assets/img/posts/2023/09/The-DevOps-Handbook.jpg" class="float-left mr-3" width="176" alt="The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Book">
+      For years, The DevOps Handbook has been the definitive guide for taking the successes laid out in the bestselling The Phoenix Project and applying them in any organization. Now, with this fully updated and expanded edition, it's time to take DevOps out of the IT department and apply it across the full business. Technology is now at the core of every company, no matter the business model or product. The theories and practices laid out in The DevOps Handbook are tools to be used by anyone from across the organization to create joy and succeed in the marketplace.
+
+The second edition features 15 new case studies, including stories from Adidas, American Airlines, Fannie Mae, Target, and the US Air Force. In addition, renowned researcher and coauthor of Accelerate, Dr. Nicole Forsgren, provides her insights through new and updated material and research. With over 100 pages of new content throughout the book, this expanded edition is a must read for anyone who works with technology.
+    </div>
+  </div>
+  <div class="row mt-3">
+    <div class="col-sm text-center">
+      Author(s): <br/><b>Gene Kim<br/>Jez Humble<br/>Patrick Debois<br/>John Willis<br/>Nicole Forsgren</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Publication year: <br/><b>2021</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Edition:<br/> <b>2nd</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Language:<br/> <b>English</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Length: <br/><b>528 pages</b>
+    </div>
+  </div>
+</div>
+
+### <a target="_blank" href="https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912">Continuous Delivery</a>
+<div class="container border p-3">
+  <div class="row border-bottom">
+    <div class="col">
+      <img src="/assets/img/posts/2023/09/Continuous-Delivery.jpg" class="float-left mr-3" width="176" alt="Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison-Wesley Signature Series (Fowler)) Book">
+      Getting software released to users is often a painful, risky, and time-consuming process.This groundbreaking new book sets out the principles and technical practices that enable rapid, incremental delivery of high quality, valuable new functionality to users. Through automation of the build, deployment, and testing process, and improved collaboration between developers, testers, and operations, delivery teams can get changes released in a matter of hours―sometimes even minutes–no matter what the size of a project or the complexity of its code base.
+
+Jez Humble and David Farley begin by presenting the foundations of a rapid, reliable, low-risk delivery process. Next, they introduce the “deployment pipeline,” an automated process for managing all changes, from check-in to release. Finally, they discuss the “ecosystem” needed to support continuous delivery, from infrastructure, data and configuration management to governance.
+
+The authors introduce state-of-the-art techniques, including automated infrastructure management and data migration, and the use of virtualization. For each, they review key issues, identify best practices, and demonstrate how to mitigate risks.
+    </div>
+  </div>
+  <div class="row mt-3">
+    <div class="col-sm text-center">
+      Author(s): <br/><b> Jez Humble<br/>David Farley </b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Publication year: <br/><b>2010</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Edition:<br/> <b>1st</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Language:<br/> <b>English</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Length: <br/><b>512 pages</b>
+    </div>
+  </div>
+</div>
+
+### <a target="_blank" href="https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339">Accelerate: The Science of Lean Software and DevOps</a>
+<div class="container border p-3">
+  <div class="row border-bottom">
+    <div class="col">
+      <img src="/assets/img/posts/2023/09/Accelerate.jpg" class="float-left mr-3" width="176" alt="Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations Book">
+      How can we apply technology to drive business value? For years, we've been told that the performance of software delivery teams doesn't matter―that it can't provide a competitive advantage to our companies. Through four years of groundbreaking research to include data collected from the State of DevOps reports conducted with Puppet, Dr. Nicole Forsgren, Jez Humble, and Gene Kim set out to find a way to measure software delivery performance―and what drives it―using rigorous statistical methods. This book presents both the findings and the science behind that research, making the information accessible for readers to apply in their own organizations.
+Readers will discover how to measure the performance of their teams, and what capabilities they should invest in to drive higher performance. This book is ideal for management at every level.
+    </div>
+  </div>
+  <div class="row mt-3">
+    <div class="col-sm text-center">
+      Author(s): <br/><b>Nicole Forsgren<br/>Jez Humble<br/>Gene Kim</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Publication year: <br/><b>2018</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Edition:<br/> <b>1st</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Language:<br/> <b>English</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Length: <br/><b>288 pages</b>
+    </div>
+  </div>
+</div>
+
+### <a target="_blank" href="https://www.amazon.com/gp/product/1492040762/">Cloud Native DevOps with Kubernetes</a>
+<div class="container border p-3">
+  <div class="row border-bottom">
+    <div class="col">
+      <img src="/assets/img/posts/2023/09/Cloud-Native-DevOps-with-Kubernetes.jpg" class="float-left mr-3" width="176" alt="Cloud Native DevOps with Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud Book">
+      Kubernetes is the operating system of the cloud native world, providing a reliable and scalable platform for running containerized workloads. In this friendly, pragmatic book, cloud experts John Arundel and Justin Domingus show you what Kubernetes can do―and what you can do with it.
+
+You’ll learn all about the Kubernetes ecosystem, and use battle-tested solutions to everyday problems. You’ll build, step by step, an example cloud native application and its supporting infrastructure, along with a development environment and continuous deployment pipeline that you can use for your own applications.
+    </div>
+  </div>
+  <div class="row mt-3">
+    <div class="col-sm text-center">
+      Author(s): <br/><b>John Arundel<br/>Justin Domingus</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Publication year: <br/><b>2019</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Edition:<br/> <b>1st</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Language:<br/> <b>English</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Length: <br/><b>344 pages</b>
+    </div>
+  </div>
+</div>
+
+### <a target="_blank" href="https://www.amazon.com/DevOps-2-0-Toolkit-Containerized-Microservices/dp/152391744X">The DevOps 2.0 Toolkit</a>
+<div class="container border p-3">
+  <div class="row border-bottom">
+    <div class="col">
+      <img src="/assets/img/posts/2023/09/The-DevOps-2.0-Toolkit.jpg" class="float-left mr-3" width="176" alt="The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices Book">
+      This book is about different techniques that help us architect software in a better and more efficient way with microservices packed as immutable containers, tested and deployed continuously to servers that are automatically provisioned with configuration management tools. It's about fast, reliable and continuous deployments with zero-downtime and ability to roll-back. It's about scaling to any number of servers, design of self-healing systems capable of recuperation from both hardware and software failures and about centralized logging and monitoring of the cluster.In other words, this book envelops the whole microservices development and deployment lifecycle using some of the latest and greatest practices and tools. We'll use Docker, Kubernetes, Ansible, Ubuntu, Docker Swarm and Docker Compose, Consul, etcd, Registrator, confd, and so on. We'll go through many practices and even more tools. Finally, while there will be a lot of theory, this is a hands-on book. You won't be able to complete it by reading it in a metro on a way to work. You'll have to read this book while in front of the computer and get your hands dirty.
+    </div>
+  </div>
+  <div class="row mt-3">
+    <div class="col-sm text-center">
+      Author(s): <br/><b>Viktor Farcic</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Publication year: <br/><b>2016</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Edition:<br/> <b>1st</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Language:<br/> <b>English</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Length: <br/><b>414 pages</b>
+    </div>
+  </div>
+</div>
+
+### <a target="_blank" href="https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358/">Building Microservices: Designing Fine-Grained Systems</a>
+<div class="container border p-3">
+  <div class="row border-bottom">
+    <div class="col">
+      <img src="/assets/img/posts/2023/09/Building-Microservices.jpg" class="float-left mr-3" width="176" alt="Building Microservices: Designing Fine-Grained Systems Book">
+      Distributed systems have become more fine-grained in the past 10 years, shifting from code-heavy monolithic applications to smaller, self-contained microservices. But developing these systems brings its own set of headaches. With lots of examples and practical advice, this book takes a holistic view of the topics that system architects and administrators must consider when building, managing, and evolving microservice architectures.
+
+Microservice technologies are moving quickly. Author Sam Newman provides you with a firm grounding in the concepts while diving into current solutions for modeling, integrating, testing, deploying, and monitoring your own autonomous services. You’ll follow a fictional company throughout the book to learn how building a microservice architecture affects a single domain.
+    </div>
+  </div>
+  <div class="row mt-3">
+    <div class="col-sm text-center">
+      Author(s): <br/><b>Sam Newman</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Publication year: <br/><b>2015</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Edition:<br/> <b>1st</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Language:<br/> <b>English</b>
+    </div>
+    <div class="col-sm border-left text-center">
+      Length: <br/><b>278 pages</b>
     </div>
   </div>
 </div>
