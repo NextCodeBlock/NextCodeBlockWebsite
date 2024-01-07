@@ -36,8 +36,6 @@ List<int> numbers = new List<int>(10);
 List<int> numbers = new List<int>();
 ```
 
-{% include advertisements.html %}
-
 ## Performance Benchmark
 In this section, the performance of above-mentioned data structures will be investigated. <a target="_blank" href="https://www.nuget.org/packages/BenchmarkDotNet">**BenchmarkDotNet**</a> library is used for this purpose. Indeed, BenchmarkDotNet is a lightweight, open-source, powerful .NET library that can transform your methods into benchmarks, track their performance, and share reproducible measurement experiments. 
 

@@ -30,8 +30,6 @@ Now let's assume that at some point in your application you need to change the F
 <script src="https://gist.github.com/ziagham/c64ff8f03844a87db4420c5e78644b70.js"></script>
 Note how the value of the LastName property from the first Customer object is assigned to the value of the LastName property of the second Customer object. But this approach is annoying when you have more features. Of course, you can implement some copy logic with reflection or serialization, and you can also use the auto-mapping library. But C# 9.0 has a better way to work with immutable data classes: **Records**.
 
-{% include advertisements.html %}
-
 ## Create your first record
 To change the Customer class to a record, you use the record keyword instead of the class keyword. Below you see the corresponding type as a record type:
 <script src="https://gist.github.com/ziagham/f35f21e52cdba43bf68f7ccb61fef753.js"></script>

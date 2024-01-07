@@ -30,8 +30,6 @@ The various components of this architecture are:
 - **Event Consumer**: An event consumer is anything that can consume an event in order to perform some kind of action. Services and applications can both be event consumers.
 - **Event Broker**: An event broker is a piece of software that serves as a central communication hub for event producers and consumers. It is in charge of routing events to the appropriate consumers. There are many event brokers, such as rabbitmq, kafka, service bus, etc.
 
-{% include advertisements.html %}
-
 ## Event-Driven Architecture Use Cases
 Softwre architect leverage Event-driven architecture when designing their systems to achieve many different use cases. The following are the most common:
 - **Parallel processing:** Multiple processes can be triggered by a single event and run asynchronously.

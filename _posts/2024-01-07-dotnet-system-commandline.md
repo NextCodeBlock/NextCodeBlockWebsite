@@ -1,8 +1,8 @@
 ---
-title: "API architectural styles"
+title: ".NET System Command Line (CLI)"
 author: Amin Ziagham
-date: 2023-09-02
-last_modified_at: 2023-09-02
+date: 2024-01-07
+last_modified_at: 2024-01-07
 categories: [Software Architecture]
 tags: [API, Software Architecture, Architecture Patterns]
 description: There are various ways to communicate between two systems (devices, web applications, etc.) made possible by APIs. Therefore, if you plan to connect ...

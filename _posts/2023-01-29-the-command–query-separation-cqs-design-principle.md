@@ -21,8 +21,6 @@ On the other hand, **Query** is a request to receive or retrieve information abo
 
 <script src="https://gist.github.com/ziagham/7e46af616f34d0461e5159e2fae7cb01.js"></script>
 
-{% include advertisements.html %}
-
 ## Definition of CQS
 Before we go to CQRS, it is better to take a look at CQS. CQS stands for Command Query Separation and is a code pattern that creates this capability to separate requests from commands. So that requests are in a separate flow from commands. This code pattern will not bring more code for us, and on the database side, no special difference will be applied, and in practice, both requests and commands will have a common bounded context. The **Figure-1** provides a very simple diagram of CQS. As you can see, requests are separate from commands and the respective services will process them. But the database, or any other information storage source, is shared.
 

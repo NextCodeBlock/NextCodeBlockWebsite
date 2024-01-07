@@ -26,8 +26,6 @@ However, the monolithic architecture have many disadvantages that prevent it fro
 - **Scalability:** It can be difficult to scale monolithic architectural software since it is tightly connected. You must drag the entire architecture up with you as your codebase develops and/or new features are added. Even if you only wish to improve or change one function, the complete application must be modified. This not only wastes time and resources, but it also has the potential to disrupt your continuous delivery.
 - **Performance:** Performance in monolithic systems must be planned for the entire application. This include Performance testing. Parts of the system under heavy strain may cause the entire system to slow down. 
 
-{% include advertisements.html %}
-
 ## What is Microservices Architecture
 Microservice architecture, in contrast to monolithic architecture which considers the application as a **"single whole"**, are a collection of small, discrete services that work together to form a larger, more complex application. This architecture allows for increased scalability and flexibility, as each service can be updated or modified without affecting the entire application. In addition, each services has its own logic, codebase, and database. Keep in mind that in this definition, when we talk about "smaller parts", we mean independent modules that are deployed individually and do not need each other, but interact with each other through API to form a larger program. Furthermore, microservices are often designed to be language-independent, meaning that different services can be written in different programming languages, providing more flexibility to the development process. 
 
