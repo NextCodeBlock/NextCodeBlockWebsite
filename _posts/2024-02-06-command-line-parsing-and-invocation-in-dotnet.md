@@ -1,12 +1,12 @@
 ---
 title: "Command line (CLI) parsing and invocation in .NET"
 author: Amin Ziagham
-date: 2024-01-06
-last_modified_at: 2024-01-06
+date: 2024-02-06
+last_modified_at: 2024-02-06
 categories: [Command Line Interface]
 tags: [CLI, Command Line Interface, System CommandLine]
-description: There are various ways to communicate between two systems (devices, web applications, etc.) made possible by APIs. Therefore, if you plan to connect ...
-image: '/assets/img/posts/2023/09/APIsArchitectural-OG.jpg'
+description: The command line is one of the most useful and effective tools available to developers and other computer users. But what is command line interface or CLI? ...
+image: '/assets/img/posts/2024/02/System-CommandLine-OG.jpg'
 ---
 
 The command line is one of the most useful and effective tools available to developers and other computer users. But what is command line interface or CLI? Simply put, the command line interface allows you to run a program or configure a system by entering commands in the terminal. With the help of CLI, you can enter any command as text and see its execution in a fraction of a second. On all systems, including Linux and Windows or macOS, there is a command line interface or CLI in addition to the GUI.
