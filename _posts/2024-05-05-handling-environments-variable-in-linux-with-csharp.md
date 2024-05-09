@@ -39,7 +39,7 @@ In the following, the implementation will be presented, which can also work in l
 As seen in the code above, in both Get and Set methods, the operating system is checked first. If the operating system is Windows, it will use the default System.Environment.GetEnvironmentVariable class. otherwise, it will execute a process to read and manipulate an environment variable.
 
 ## Project Link
-<a target="_blank" href="https://github.com/NextCodeBlock/Linux-EnvironmentVariables-Demo">**Here**</a>, you can find the source code of this post on Github.
+<a target="_blank" href="https://github.com/NextCodeBlock/Linux-EnvironmentVariables-Demo">**Here**</a>, you can find the source code of this article on Github.
 
 ## Conclusion
-The command line is one of the most valuable and powerful tools available to developers and other computer users. In this article, the Console, Terminal and Command Line Interface (CLI) concepts were explained. In the following this article tried to introduce and describe the System.CommandLine package and how to use it to create a solid and professional command line application.
+In this article, the handling of environments variables was discussed. One of the problems of using the System.Environment.GetEnvironmentVariable class, in C#, within the Linux OS is that you cannot access Environments Variables outside the of current process. Therefore, a simple implementation was presented in this article, so that make us able to access to System Environments Variables in an OS other than Windows.
