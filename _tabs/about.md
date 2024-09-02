@@ -13,17 +13,17 @@ In the meantime, I always tried to help others in the way of learning programmin
 <table class="table table-borderless">
     <tr>
         <td class="text-center">
-            <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/AminZiagham-2535/D685BF5239F0084A?sharingId=FBCFF8F3F0CB5277">
+            <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/AminZiagham/D685BF5239F0084A?sharingId=FBCFF8F3F0CB5277">
                 <img src="/assets/img/author/microsoft-certified-azure-fundamentals.png" width="160px" height="160px" />
             </a><br />
         </td>
         <td class="text-center">
-            <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/AminZiagham-2535/C404DAA9350C528C?sharingId=FBCFF8F3F0CB5277">
+            <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/AminZiagham/C404DAA9350C528C?sharingId=FBCFF8F3F0CB5277">
                 <img src="/assets/img/author/microsoft-certified-azure-administrator-associate.png" width="160px" height="160px" />
             </a><br />
         </td>
         <td class="text-center">
-            <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/AminZiagham-2535/653AB46A1AC801A9?sharingId=FBCFF8F3F0CB5277">
+            <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/AminZiagham/653AB46A1AC801A9?sharingId=FBCFF8F3F0CB5277">
                 <img src="/assets/img/author/microsoft-certified-azure-developer-associate.png" width="160px" height="160px" />
             </a><br />
         </td>
